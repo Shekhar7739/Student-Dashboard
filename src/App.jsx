@@ -5,12 +5,12 @@ import {
 
 
 const student = {
-  name: "Lokesh Garg",
+  name: "Shekhar Suman",
   program: "BCA",
   year: "2025",
   id: "STU2024001",
-  email: "lokesh.garg@university.edu",
-  phone: "+1 (555) 123-4567",
+  email: "shekharsuman@university.edu",
+  phone: "123-4567",
   about: "Passionate about web development and full-stack projects.",
   gpa: 9.1,
   avatar: "https://i.pravatar.cc/80?img=12",
